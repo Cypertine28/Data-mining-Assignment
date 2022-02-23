@@ -1,0 +1,1 @@
+python3 Q4-part1.py
